@@ -1,0 +1,4 @@
+ name: Minguez, Rommel U.
+ section: BSIT-2B
+
+midterm exam task
