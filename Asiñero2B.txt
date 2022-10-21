@@ -1,0 +1,5 @@
+Jhon Michael C. Asiñero
+
+$ git config --global user.name michael51360
+
+$ git config --global user.email yasuodivine16@gmail.com
