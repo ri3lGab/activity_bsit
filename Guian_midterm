@@ -1,0 +1,4 @@
+git config--global user.name Pawyankees
+git config--global user.email pawyankees1992@gmail.com
+git init
+git status
